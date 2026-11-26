@@ -1,0 +1,12 @@
+2026-11-26 11:16:16,637 - INFO - File Organizer program started
+2026-11-26 11:17:25,304 - ERROR - Directory not found: Directory does not exist
+2026-11-26 11:17:25,304 - INFO - File Organizer program execution finished
+2026-11-26 11:17:32,750 - INFO - File Organizer program started
+2026-11-26 11:17:44,628 - INFO - Directory validation successful: C:\Users\user\OneDrive\Desktop\duplicate file
+2026-11-26 11:17:50,891 - INFO - Starting directory scanning
+2026-11-26 11:17:50,891 - INFO - Directory scanning completed
+2026-11-26 11:17:50,891 - INFO - Total files scanned: 0
+2026-11-26 11:17:58,542 - INFO - User approved file organization
+2026-11-26 11:17:58,542 - INFO - Dry-run enabled; no files moved
+2026-11-26 11:17:58,555 - INFO - Report generated successfully: C:\Users\user\OneDrive\Desktop\duplicate file\organizer_report.txt
+2026-11-26 11:17:58,555 - INFO - File Organizer program execution finished

@@ -1,0 +1,34 @@
+
+========================================
+          FILE ORGANIZER REPORT
+========================================
+
+Report Date: 26-11-2026 11:07:19
+
+DIRECTORY INFORMATION
+----------------------------------------
+Directory Path : C:\Users\user\OneDrive\Pictures
+Total Files    : 53
+Total Folders  : 2
+
+FILE CATEGORY SUMMARY
+----------------------------------------
+Images              :    48
+Others              :     4
+Videos              :     1
+
+FILE STATISTICS
+----------------------------------------
+Total Size      : 34.89 MB
+Hidden Files    : 3
+Duplicate Files : 0
+
+ORGANIZATION SUMMARY
+----------------------------------------
+Planned Files       : 53
+Successfully Moved  : 0
+Skipped Files       : 53
+
+========================================
+             END OF REPORT
+========================================
